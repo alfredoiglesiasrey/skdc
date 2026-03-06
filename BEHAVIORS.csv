@@ -1,0 +1,16 @@
+﻿deptid,reasonid,department,reason,deptshort,good
+101,1001,Scholar Behavior Analysis Department,Bad scores,SBAD,N
+101,1002,Scholar Behavior Analysis Department,Bullying peers,SBAD,N
+101,1003,Scholar Behavior Analysis Department,Disrespect teachers,SBAD,N
+101,1004,Scholar Behavior Analysis Department,Ditching classes,SBAD,N
+123,2406,Dietary Intake Analysis Department,Too much sugar,DIAD,N
+123,2407,Dietary Intake Analysis Department,Not eating veggies,DIAD,N
+123,2408,Dietary Intake Analysis Department,Only eating with supervision,DIAD,N
+123,2409,Dietary Intake Analysis Department,Snacking between meals,DIAD,N
+256,3875,Affective Empathy Analysis Department,Repetitive tantrums,AEAD,N
+256,3876,Affective Empathy Analysis Department,Not listening to parents,AEAD,N
+256,3877,Affective Empathy Analysis Department,Room messed up,AEAD,N
+256,3878,Affective Empathy Analysis Department,Disregard for rules,AEAD,N
+437,7652,Awesome Behavior Detection Department,Exceptional behaviour at home,ABDD,Y
+437,7653,Awesome Behavior Detection Department,Exceptional behaviour at school,ABDD,Y
+437,7654,Awesome Behavior Detection Department,An angel fallen from heaven,ABDD,Y
